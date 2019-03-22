@@ -1,0 +1,1 @@
+An app for keeping track of the ribbons you've obtained in your Ribbon Master journey.
